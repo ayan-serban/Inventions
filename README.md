@@ -1,33 +1,46 @@
-# ⏰ AYAN TimeMaster Pro
+# 🚀 AYAN's Inventions
 
-**ESP32-based circular clock with analog and digital display that never forgets the time!**
+**My collection of ESP32, Arduino, and electronics projects!**
 
-![Clock Display](https://img.shields.io/badge/Display-240x240%20Circular-blue)
-![Platform](https://img.shields.io/badge/Platform-ESP32--S3-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![Maker](https://img.shields.io/badge/Maker-AYAN-blue)
+![Platform](https://img.shields.io/badge/Platform-ESP32%20%7C%20Arduino-green)
 
-## ✨ Features
+## 📂 Projects
 
-- 🎯 **Analog Clock Face** - Beautiful moving hour, minute, and second hands
-- 🔢 **Digital Time Display** - Large, centered time in HH:MM:SS format
-- 📅 **Date & Day of Week** - Always know what day it is
-- 🔋 **Battery Backup** - DS1302 RTC keeps time even when powered off
-- 🔄 **Auto-Sync** - Automatically syncs to your laptop time on upload
-- 💚 **Custom Name Display** - Shows "AYAN" at the bottom
-- 🌈 **Colorful Interface** - Multi-color display (cyan, green, red, yellow, magenta)
+### 1. ⏰ [AYAN TimeMaster Pro](./AYAN-TimeMaster-Pro/)
+**ESP32 Circular Clock with Never-Forget Technology**
 
-## 🛠️ Hardware Required
+- Analog + Digital clock display
+- Auto-syncs to laptop time
+- Battery backup (never loses time!)
+- 240x240 circular display
+- [View Project →](./AYAN-TimeMaster-Pro/)
 
-| Component | Specification |
-|-----------|--------------|
-| Microcontroller | ESP32-S3 |
-| Display | GC9A01A 1.28" Circular LCD (240x240, SPI) |
-| RTC Module | DS1302 (with CR2032 battery) |
-| Cables | Jumper wires |
-| Power | USB-C cable |
+**Status:** ✅ Complete | **Cost:** ~$15-20
 
-**Total Cost: ~$15-20**
+---
 
-## 📌 Pin Connections
+### 2. 🚧 Coming Soon...
+More inventions on the way!
 
-### GC9A01A Circular Display (SPI)
+---
+
+## 🛠️ Technologies I Use
+
+- ESP32-S3
+- Arduino IDE
+- Various sensors and displays
+- 3D printing (coming soon!)
+
+## 📹 YouTube
+
+Check out my shorts: [Your Channel Link]
+
+## 📧 Contact
+
+- GitHub: [@ayan-serban](https://github.com/ayan-serban)
+- Email: your.email@example.com
+
+---
+
+**⭐ Star this repo if you like my inventions!**
