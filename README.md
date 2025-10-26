@@ -39,7 +39,7 @@ Check out my shorts: [Your Channel Link]
 ## 📧 Contact
 
 - GitHub: [@ayan-serban](https://github.com/ayan-serban)
-- Email: your.email@example.com
+- Email: ayan.serban.s@gmail.com
 
 ---
 
